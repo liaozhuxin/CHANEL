@@ -65,6 +65,14 @@
 			cursor:pointer;
 			text-decoration: none;
 		}
+		.header-menuList a{
+			color: rgb(29, 29, 29);
+			
+		}
+		.header-menuList a:hover{
+			color: #767676;
+			text-decoration: none;
+		}
 		.header-menuList span:hover{
 			color: #767676;
 		}
@@ -398,6 +406,14 @@
 			color: rgb(29, 29, 29);
 			height: 52px;
 			cursor:pointer;
+			text-decoration: none;
+		}
+		.header-menuList a{
+			color: rgb(29, 29, 29);
+			
+		}
+		.header-menuList a:hover{
+			color: #767676;
 			text-decoration: none;
 		}
 		.header-menuList span:hover{
